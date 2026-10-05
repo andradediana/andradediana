@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Diana ✨
 
-<!--
-**andradediana/andradediana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Biomedical Engineer from Mexico who recently completed a Master's in Data Science at the University of Padova, Italy.
 
-Here are some ideas to get you started:
+I enjoy working with data, building machine learning models, and learning new things along the way. I'm particularly interested in **AI, computer vision, and healthcare-related applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Things I work with
+
+Python · PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · SQL · Git
+
+### 🚀 A few things I've worked on
+
+* 🧠 Deep learning & gesture recognition
+* 📊 Forecasting and business models 
+* 🤖 Machine learning projects
+
+I'm currently looking for opportunities where I can keep learning, build cool things, and put my data science skills to use.
