@@ -6,7 +6,7 @@ I enjoy working with data, building machine learning models, and learning new th
 
 ### 🛠️ Things I work with
 
-Python · PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · SQL · Git
+Python · PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Git
 
 ### 🚀 A few things I've worked on
 
